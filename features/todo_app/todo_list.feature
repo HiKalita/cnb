@@ -7,8 +7,8 @@ Feature: Todo List
     When he records "walk my cat"
     And he records "read a book"
     Then his list should contain
-    |item_name   |
-    |walk my cat |
-    |read a book |
+    | item_name   |
+    | walk my cat |
+    | read a book |
 
-    Scenario: Marking item as completed
+    # Scenario: Marking item as completed
