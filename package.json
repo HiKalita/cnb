@@ -35,7 +35,6 @@
     "npm": ">= 6"
   },
   "dependencies": {
-    "@cucumber/cucumber": "^7.0.0",
     "@serenity-js/assertions": "^2.23.0",
     "@serenity-js/console-reporter": "^2.23.0",
     "@serenity-js/core": "^2.23.0",
@@ -52,5 +51,8 @@
     "tslint": "^6.1.3",
     "tslint-microsoft-contrib": "^6.2.0",
     "typescript": "^4.1.5"
+  },
+  "devDependencies": {
+    "@cucumber/cucumber": "^7.0.0"
   }
 }

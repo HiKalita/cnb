@@ -11,4 +11,4 @@ Feature: Todo List
     | walk my cat |
     | read a book |
 
-    # Scenario: Marking item as completed
+    
